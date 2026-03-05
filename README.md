@@ -76,7 +76,7 @@ OpenClaw Manager 会在首次启动时**自动检测并安装**以下依赖：
 
 ### 支持的模型
 
-通过 [APIMart](https://apimart.ai) 统一接入：
+通过 [ViVa API](https://www.vivaapi.cn) 统一接入：
 
 | 厂商 | 模型 |
 |------|------|
